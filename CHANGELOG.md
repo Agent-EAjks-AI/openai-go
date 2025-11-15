@@ -1,5 +1,18 @@
 # Changelog
 
+## 3.9.0 (2025-11-15)
+
+Full Changelog: [v3.8.1...v3.9.0](https://github.com/openai/openai-go/compare/v3.8.1...v3.9.0)
+
+### Features
+
+* **api:** gpt 5.1 ([470f91f](https://github.com/openai/openai-go/commit/470f91faac304e518019be9f7b12e6270af63bbd))
+
+
+### Chores
+
+* bump gjson version ([305831f](https://github.com/openai/openai-go/commit/305831feb6c39d1f9f6e85c2e9f94f6c7f0dcd45))
+
 ## 3.8.1 (2025-11-04)
 
 Full Changelog: [v3.8.0...v3.8.1](https://github.com/openai/openai-go/compare/v3.8.0...v3.8.1)
